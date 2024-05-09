@@ -8,7 +8,8 @@ As part of the technical prescreen, please be prepared to:
 
 - Have your video and audio on during the teams meeting
 - Share the screen of the computer you are using during the teams meeting
-  - You must share the desktop, choosing to only share a given window is not accpetable
+  - You must share the desktop, choosing to only share a given window is not acceptable
+- Prepare to introduce yourself in under a minute. This interview round will be judged solely on your answers to technical questions, and it is in your best interest to leave as much time as possible to get to them.
 
 ## Preparation
 
@@ -19,7 +20,6 @@ Please note, these steps also demonstrate the baseline level of technical knowle
 1. Clone this repository to your computer
 2. Open this repository within VSCode
    1. You may choose to use another IDE if you wish
-3. Signup for a playground org using Trailhead
-4. Enable the playground org as a DevHub
+3. Authorize a DevHub, - this should not be one you currently use for work (you are free to use a Developer Edition org or Trailhead Playground)
 5. Connect to the playground using the CLI
-6. Execute the `bin/resetScratchOrg.sh` script using the playground that you authorized
+6. Execute the `bin/install-scratch.sh` script using the playground that you authorized

@@ -7,8 +7,3 @@ Welcome to Steampunk's Salesforce Interview repository! As part of the technical
 ### Round Zero
 
 Please see the [Round Zero](instructions/Round_Zero.md) instructions.
-
-### Additional Rounds
-
-- There are 1-2 technical rounds after round Zero
-- Please be prepared to be on camera and use your computer for audio. There will be no dial-in.
